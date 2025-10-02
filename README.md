@@ -2,7 +2,7 @@
   The final, fully functional website version of the YouTube Vistar Salahkar application.
   This includes all AI-powered tools (SEO, Script, Thumbnail) using XHR for maximum stability.
   NOTE: This must be hosted on a web server that does not block external API calls to function correctly.
--->
+--><meta name="google-site-verification" content="IBIxq7l1jTl5OYSP1t3NebJUiZ9_neYoZncfr7xwWxE" />
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
   tailwind.config = {
