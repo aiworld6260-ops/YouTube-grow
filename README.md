@@ -213,8 +213,7 @@
   // --- Global Setup and Utility Functions ---
   const GEMINI_MODEL = "gemini-2.5-flash-preview-05-20";
   const IMAGEN_MODEL = "imagen-3.0-generate-002";
-  const apiKey = ""; // API Key is provided by the environment
-
+  const apiKey = ""AIzaSyDdvSRrEzB8YbQ8F_8PyYKmPUfPA_GQ_xU""
   let userId = 'USER-' + (crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(36).substring(2, 9));
 
   function setUserIdDisplay() {
